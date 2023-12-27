@@ -1,4 +1,7 @@
 @media (max-width:430px) {
+
+/* header  */
+
     .header_left_side {
         column-gap: 18px;
     }
