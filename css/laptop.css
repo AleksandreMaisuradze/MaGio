@@ -1,0 +1,9 @@
+@media (max-width:876px) {
+    .main_header {
+        padding-inline: 24px;
+    }
+
+    .header_ul {
+        column-gap: 42px;
+    }
+}
