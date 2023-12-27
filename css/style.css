@@ -109,6 +109,17 @@ span {
     object-fit: cover;
     position: absolute;
     display: none;
+    animation: opacity 1.5s linear;
+}
+
+@keyframes opacity {
+    from {
+        opacity: .6;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 .arrows {
