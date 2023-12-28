@@ -155,7 +155,7 @@ span {
 
 .main_footer {
     margin-top: 64px;
-    padding: 64px 32px;
+    padding: 32px;
     display: flex;
     justify-content: space-between;
     align-items: top;
@@ -163,6 +163,7 @@ span {
 }
 
 .social_icons_title {
+    text-align: center;
     margin-bottom: 32px;
     font-size: 24px;
     font-weight: bold;
@@ -171,6 +172,7 @@ span {
 }
 
 .icons {
+    margin-bottom: 55px;
     display: flex;
     align-items: center;
     column-gap: 24px;

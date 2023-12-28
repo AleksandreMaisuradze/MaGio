@@ -21,7 +21,13 @@
         font-size: 12px;
     }
 
-    .background_section {
-        height: 550px;
+    /* footer  */
+
+    .text_contact {
+        font-size: 10px;
+    }
+
+    .contact {
+        margin-inline: 2px;
     }
 }

@@ -1,6 +1,6 @@
 @media (max-width:685px) {
 
-/* header  */
+    /* header  */
 
     .header_nav {
         width: 50%;
@@ -30,5 +30,35 @@
 
     .header_a {
         font-size: 20px;
+    }
+
+    /* footer  */
+
+    .social_icons_title {
+        margin-right: 12px;
+        text-wrap: nowrap;
+    }
+
+    .text_contact {
+        text-wrap: wrap;
+    }
+
+    .contact {
+        margin-inline: 8px;
+    }
+}
+
+
+@media (max-width:520px) {
+
+    /* footer */
+    
+    .main_footer {
+        padding-inline: 16px;
+    }
+
+    .contact_icons {
+        width: 20px;
+        height: 20px;
     }
 }

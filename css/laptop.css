@@ -10,3 +10,16 @@
         column-gap: 42px;
     }
 }
+
+@media (max-width:825px) {
+
+    /* footer  */
+    
+    .social_icons_title {
+        font-size: 18px;
+    }
+
+    .text_contact {
+        font-size: 12px;
+    }
+}
