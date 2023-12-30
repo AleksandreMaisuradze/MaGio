@@ -70,4 +70,4 @@ function autoChange(delay = 5000) {
 
 autoChange()
 
-//background images
+//background images finished
